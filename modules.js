@@ -1,4 +1,4 @@
-window.themeMode = "light";
+window.themeMode = "dark";
 
 let cfg = {
   domain: 'https://web3modal.com',
